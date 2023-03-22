@@ -1,0 +1,25 @@
+{
+  "name": "basic-bitch-cms",
+  "version": "1.0.0",
+  "description": "The most basic-ass CMS you can think of.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dan-bailey/basic-bitch-cms.git"
+  },
+  "keywords": [
+    "cms",
+    "express",
+    "node",
+    "mongo"
+  ],
+  "author": "Dan Bailey",
+  "license": "GPL-2.0-only",
+  "bugs": {
+    "url": "https://github.com/dan-bailey/basic-bitch-cms/issues"
+  },
+  "homepage": "https://github.com/dan-bailey/basic-bitch-cms#readme"
+}
